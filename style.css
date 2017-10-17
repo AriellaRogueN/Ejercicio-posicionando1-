@@ -1,0 +1,23 @@
+.redbox{
+    height: 300px;
+    width: 275px;
+    background-color: #FF0000;
+
+}
+
+.purplebox{
+    height: 150px;
+    width: 150px;
+    background-color: purple;
+    position: relative;
+    top: 80px;
+    left: 60px;
+}
+
+.yellowbox{
+    height: 75px;
+    width: 75px;
+    background-color: yellow;
+    
+
+}
